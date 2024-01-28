@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferencias>
+    <filmes>
+        <filme>
+            <titulo>Interestelar</titulo>
+            <ano_lancamento>2014</ano_lancamento>
+            <elenco_principal>Matthew McConaughey, Anne Hathaway, Jessica Chastain</elenco_principal>
+            <tipo>Aventura, Ficção Científica</tipo>
+            <sinopse>Um grupo de exploradores espaciais viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.</sinopse>
+        </filme>
+        <filme>
+            <titulo>Kill Bill Volume 1</titulo>
+            <ano_lancamento>2003</ano_lancamento>
+            <elenco_principal>Uma Thurman, Lucy Liu, Vivica A. Fox</elenco_principal>
+            <tipo>Ação, Crime</tipo>
+            <sinopse>Uma assassina busca vingança contra seu antigo grupo de assassinos depois de acordar de um coma.</sinopse>
+        </filme>
+        <filme>
+            <titulo>Gran Torino</titulo>
+            <ano_lancamento>2008</ano_lancamento>
+            <elenco_principal>Clint Eastwood, Bee Vang, Christopher Carley</elenco_principal>
+            <tipo>Drama</tipo>
+            <sinopse>Um veterano da Guerra da Coreia se torna amigo de um adolescente Hmong e tenta protegê-lo de uma gangue local.</sinopse>
+        </filme>
+    </filmes>
+    <livros>
+        <livro>
+            <titulo>O Senhor dos Anéis</titulo>
+            <autor>J.R.R. Tolkien</autor>
+            <ano_lancamento>1954</ano_lancamento>
+            <tipo>Aventura, Fantasia</tipo>
+            <numero_paginas>1178</numero_paginas>
+        </livro>
+        <livro>
+            <titulo>12 Regras para a Vida: Um Antídoto para o Caos</titulo>
+            <autor>Jordan B. Peterson</autor>
+            <ano_lancamento>2018</ano_lancamento>
+            <tipo>Autoajuda, Filosofia</tipo>
+            <numero_paginas>448</numero_paginas>
+        </livro>
+        <livro>
+            <titulo>O Poderoso Chefão</titulo>
+            <autor>Mario Puzo</autor>
+            <ano_lancamento>1969</ano_lancamento>
+            <tipo>Crime, Drama</tipo>
+            <numero_paginas>448</numero_paginas>
+        </livro>
+    </livros>
+    <comidas>
+        <comida>
+            <nome>Feijoada</nome>
+            <ingredientes>Feijão preto, carne de porco, linguiça, bacon</ingredientes>
+        </comida>
+        <comida>
+            <nome>Pizza</nome>
+            <ingredientes>Massa de pizza, molho de tomate, queijo, pepperoni</ingredientes>
+        </comida>
+        <comida>
+            <nome>Lasanha Bolonhesa</nome>
+            <ingredientes>Massa de lasanha, molho bolonhesa, queijo</ingredientes>
+        </comida>
+    </comidas>
+</preferencias>
+
